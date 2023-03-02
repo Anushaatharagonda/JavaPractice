@@ -11,6 +11,8 @@ a.add(true);
 a.addFirst("anusha");
 a.addLast("Ajay");
 a.addLast("jatharagond");
+a.addLast("Ajay");
+a.addLast("jatharagond");
 System.out.println(a);
 System.out.println(a.size());
 a.remove(3);
